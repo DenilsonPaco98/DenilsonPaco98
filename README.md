@@ -3,7 +3,7 @@
 I'm Denilson Paco and this is my GitHub profile. I do my best to share what I'm learning and to keep well-documented repos.
 - 💻  Data and ML Enthusiast
 - 🏢  Studying for my next challenge
-- 🌎  Based in Brazil, São Paulo
+- 🌎  Currently living in Brazil - São Paulo
 - 👩‍💻  More about me: 
         [LinkedIn](https://www.linkedin.com/in/denilson-paco-24b629181/)
         
@@ -11,7 +11,7 @@ I'm Denilson Paco and this is my GitHub profile. I do my best to share what I'm 
  
 
 ### Languages and tools
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg">
