@@ -23,5 +23,5 @@ I'm Denilson Paco and this is my GitHub profile. I do my best to share what I'm 
 
 - DATA ENGINEER ON AZURE - DP203
 - DATABRICKS FUNDAMENTALS
-- SCRUM FUNDAMENTALS PROFESSIONAL
+- SCRUM FUNDAMENTALS PROFESSIONAL 
 
