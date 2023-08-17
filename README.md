@@ -22,7 +22,7 @@ I'm Denilson Paco and this is my GitHub profile. I do my best to share what I'm 
 
 ### Certifications :
 
-- DATA ENGINEER ON AZURE - DP203
+- AWS CLOUD PRACTITIONER
 - DATABRICKS FUNDAMENTALS
 - SCRUM FUNDAMENTALS PROFESSIONAL 
 <center>
